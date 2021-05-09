@@ -1,2 +1,2 @@
-# DataScience
-Esse é meu repositório de Data Science, pois estou iniciando meus novos estudos nessa grande área.
+# Imersao dados Alura
+Esse é meu repositório do curso de imersão dados da alura, contendo todos os 5 desafios feitos por mim.
